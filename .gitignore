@@ -9,7 +9,7 @@ package-lock.json
 yarn.lock
 
 #config keys
-/src/config/keys.js
+/config/keys.js
 
 # Runtime data
 pids
