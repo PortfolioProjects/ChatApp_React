@@ -8,8 +8,7 @@ yarn-error.log*
 package-lock.json
 yarn.lock
 
-# Config keys
-src/config/keys.js
+keys.js
 
 # Runtime data
 pids

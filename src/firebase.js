@@ -9,7 +9,7 @@ import {
   projectId,
   storageBucket,
   messagingSenderId
-} from './config/keys';
+} from '../keys';
 
 var config = {
   apiKey: apiKey,
